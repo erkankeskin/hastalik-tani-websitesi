@@ -1,0 +1,57 @@
+﻿body {
+    color:orangered;
+    font-size:20px;
+}
+#adam{
+    position:absolute;
+    top:52px;
+    left:150px;
+    z-index:-1;
+    
+}
+#solkol{
+    position:absolute;
+    top:172px;
+    left:331px;
+    width:54px;
+    height:156px;
+}
+#sagkol{
+    position:absolute;
+    top:184px;
+    left:509px;
+    width:50px;
+    height:145px;
+}
+#bacak{
+    position:absolute;
+    top:350px;
+    left:385px;
+    width:122px;
+    height:266px;
+}
+#govde{
+    position:absolute;
+    top:168px;
+    left:398px;
+    width:98px;
+    height:164px;
+}
+#kafa{
+    position:absolute;
+    top:89px;
+    left:410px;
+    width:70px;
+    height:72px;
+}
+#datatable{
+    position:absolute;
+    top: 346px;
+    left: 798px;
+}
+#symptomdata{
+     position:absolute;
+      top: 123px;
+    left: 838px;
+    overflow:auto;
+}
